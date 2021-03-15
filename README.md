@@ -1,4 +1,4 @@
-# portfólio
+# Portfólio
 
 # Sobre o projeto
 
