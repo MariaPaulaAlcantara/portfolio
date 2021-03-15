@@ -1,4 +1,4 @@
-# portfolio
+# portfólio
 
 # Sobre o projeto
 
@@ -22,18 +22,25 @@ Este é um portfolio profissional.
 
 # Tecnologias utilizadas
 ## Back end
--Não é conectado ao banco de dados
--Formulário não funciona
+- Não é conectado ao banco de dados
+
+- Formulário não funciona
 
 ## Front end
 - HTML / CSS / JS / 
 
+
+
 # Como executar o projeto
--Baixar o código zip
--executar a pasta
--abrir no google a pagina index.html
+- Baixar o código zip
 
+- Executar a pasta
 
+- Abrir no google a pagina index.html
+
+## observação
+
+A área "Faça uma pergunta" não responde a qualquer tipo de pergunta, ele apenas retorna quando digitado alguma palavra cheve, qualquer tipo de problema digite "ajuda" para descobrir as palavras chaves.
 
 # Autor
 
